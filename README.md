@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **data analysis and backend**
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **C# .Net Framework, SQL, MVC**
 
 - 📫 How to reach me **reyhansunduk@hotmail.com**
 
