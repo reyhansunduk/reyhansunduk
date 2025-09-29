@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Reyhan Sündük</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=reyhansunduk&label=Profile%20views&color=0e75b6&style=flat" alt="reyhansunduk" /> </p>
+
 
 <p align="left"> <a href="https://twitter.com/reyhansunduk" target="blank"><img src="https://img.shields.io/twitter/follow/reyhansunduk?logo=twitter&style=for-the-badge" alt="reyhansunduk" /></a> </p>
 
@@ -8,6 +8,9 @@
 - 🌱 I’m currently learning **C# .Net Framework, SQL, MVC**
 
 - 📫 How to reach me **reyhansunduk@hotmail.com**
+
+  
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reyhansunduk&layout=compact&langs_count=8)
 
 
 <h3 align="left">Connect with me:</h3>
